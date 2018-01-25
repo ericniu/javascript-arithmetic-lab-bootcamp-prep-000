@@ -1,3 +1,4 @@
-function add(1,277) {
-  return (`1 + 277`)
+var number = 277
+function add1() {
+  number += 1 
 }
