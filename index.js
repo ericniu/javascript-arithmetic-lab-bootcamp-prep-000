@@ -1,4 +1,3 @@
-var number = 277
-function add1() {
-  number += 1
+function add(a,b) {
+  return (add(a, b)).toEqual(a + b)
 }
